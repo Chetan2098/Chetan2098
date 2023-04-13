@@ -1,0 +1,12 @@
+init >> validate the template 
+Plan >> Review the changes in file
+Apply >> Once you apply it will appky changes as per pln 
+teraform validate >> this command will validate the syntatical format of code.
+===============================================================================
+
+Extension
+.tf is used to store teraform file (Shoud be in UTF-8 Format)
+.tfvar is file for storing variables 
+Tereform code written in HashiCorp Configuration Language (HCL)
+
+State file >> once you create the infrastructure it will be store it in state file
