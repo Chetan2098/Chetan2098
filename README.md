@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetan – Cloud & DevOps Engineer</h1>
-<h3 align="center">Infrastructure Developer | CI/CD Automation | Terraform | DevOps</h3>
+<h3 align="center">Infrastructure Developer | CI/CD | Github Actions | Terraform | DevOps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chetan2098&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -120,6 +120,7 @@ Recognized for outstanding service delivery and AWS cloud automation.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan2098&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 
