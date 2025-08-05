@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Pune,%20India-blueviolet?style=flat&logo=googlemaps&logoColor=white" />
-  <a href="mailto:chetanchopade5@gmail.com"><img src="https://img.shields.io/badge/Email-chetanchopade5@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/chetan-chopade-/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chetanchopade5@gmail.com"><img src="https://img.shields.io/badge/chetanchopade5@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chetan-chopade-/"><img src="https://img.shields.io/badge/Connect-blue?style=flat&logo=linkedin&logoColor=white" /></a>
 <!--   <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-View-blue?style=flat&logo=adobeacrobatreader&logoColor=white" /></a> -->
 </p>
 
@@ -123,6 +123,7 @@ Recognized for outstanding service delivery and AWS cloud automation.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan2098&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 
