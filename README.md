@@ -55,8 +55,11 @@
 
 ### 🧩 Certifications
 
-- 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1f7667db-7536-4e6d-96ab-18a4d89f5f73/public_url)
-- 🏅 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/65d474bf-1c9b-4b6c-8dad-06262bacacdc/public_url)
+
+- [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/1f7667db-7536-4e6d-96ab-18a4d89f5f73/public_url)
+
+- [![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect--Associate-blue?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/65d474bf-1c9b-4b6c-8dad-06262bacacdc/public_url)
+
 
 ---
 
