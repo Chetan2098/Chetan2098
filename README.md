@@ -32,16 +32,53 @@
 
 ## 🛠️ Tech Stack
 
-### ✅ Proficient In:
-- **Cloud**: `EC2`, `VPC`, `IAM`, `RDS`, `Lambda`, `Route 53`, `CloudFormation`, `S3`, `Secrets Manager`, `Redshift`, `Step Functions`
-- **IaC & CI/CD**: `Terraform`, `GitHub Actions`, `Jenkins`, `GitHub Enterprise`
-- **Automation & Scripting**: `Python (Boto3)`, `Shell Scripting`, `EventBridge`, `Ansible`
-- **Monitoring**: `CloudWatch`, `CloudTrail`, `Dynatrace`, `Grafana`, `Prometheus`
-- **Systems**: `Linux`, `Windows`, `Git`
+### ✅ Proficient In
 
-### 🚧 Learning:
-- `Docker` (basic containerization concepts and testing with Dockerfiles)  
-- `Kubernetes` (basic exposure and concepts)
+#### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route%2053-205081?style=for-the-badge&logo=awslambda&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=awscloudformation&logoColor=white)
+![Secrets Manager](https://img.shields.io/badge/Secrets%20Manager-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-0058A3?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step%20Functions-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+#### ⚙️ IaC & CI/CD
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Enterprise](https://img.shields.io/badge/GitHub%20Enterprise-000000?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🤖 Automation & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Boto3](https://img.shields.io/badge/Boto3-3776AB?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell%20Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+#### 📈 Monitoring
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+#### 🖥️ Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚧 Currently Learning
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -83,3 +120,4 @@ Recognized for outstanding service delivery and AWS cloud automation.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan2098&layout=compact&theme=tokyonight" />
 </p>
+
