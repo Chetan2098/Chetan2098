@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Chetan2098/Chetan2098_/blob/main/banner.png" alt="banner" />
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm an AWS Cloud Engineer</h1>
 <h3 align="center">AWS Cloud Engineer | Infrastructure Developer | Automation | DevOps | Terraform | CI/CD | GitHub Actions</h3>
@@ -47,16 +47,16 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chetan2098&theme=tokyonight&column=7" />
-</p>
+</p> -->
 
 ---
 
 ### 🧩 Certifications
 
-- 🏅 AWS Certified Cloud Practitioner  
-- 🏅 AWS Certified Solutions Architect – Associate  
+- 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1f7667db-7536-4e6d-96ab-18a4d89f5f73/public_url)
+- 🏅 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/65d474bf-1c9b-4b6c-8dad-06262bacacdc/public_url)
 
 ---
 
